@@ -1,4 +1,6 @@
-
+---
+Title: "Welcome to my blog"
+---
 
 # Welcome to My Personal Website
 
